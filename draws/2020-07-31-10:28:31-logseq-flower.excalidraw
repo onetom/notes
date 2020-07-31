@@ -1,0 +1,294 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://logseq.com",
+  "elements": [
+    {
+      "id": "saNHoqaSIIK02SxUcIG0z",
+      "type": "text",
+      "x": 610,
+      "y": 269,
+      "width": 323,
+      "height": 50,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "seed": 1389166500,
+      "version": 51,
+      "versionNonce": 1620590372,
+      "isDeleted": false,
+      "text": "Let's draw something for Logseq\n",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 43
+    },
+    {
+      "id": "rroX286_DWY7t-GQW43il",
+      "type": "draw",
+      "x": 758.5454711914062,
+      "y": 353.5454406738281,
+      "width": 154,
+      "height": 112,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "seed": 1131001116,
+      "version": 193,
+      "versionNonce": 2055542308,
+      "isDeleted": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -1,
+          -3
+        ],
+        [
+          -9,
+          -12
+        ],
+        [
+          -19,
+          -18
+        ],
+        [
+          -49,
+          -29
+        ],
+        [
+          -52,
+          -29
+        ],
+        [
+          -54,
+          -26
+        ],
+        [
+          -55,
+          -13
+        ],
+        [
+          -54,
+          -6
+        ],
+        [
+          -51,
+          -3
+        ],
+        [
+          -37,
+          5
+        ],
+        [
+          -11,
+          12
+        ],
+        [
+          -35,
+          10
+        ],
+        [
+          -48,
+          10
+        ],
+        [
+          -54,
+          12
+        ],
+        [
+          -59,
+          19
+        ],
+        [
+          -62,
+          35
+        ],
+        [
+          -58,
+          38
+        ],
+        [
+          -32,
+          42
+        ],
+        [
+          -21,
+          42
+        ],
+        [
+          -15,
+          39
+        ],
+        [
+          -9,
+          32
+        ],
+        [
+          -8,
+          28
+        ],
+        [
+          -15,
+          26
+        ],
+        [
+          -15,
+          24
+        ],
+        [
+          -14,
+          46
+        ],
+        [
+          -6,
+          66
+        ],
+        [
+          -3,
+          71
+        ],
+        [
+          6,
+          77
+        ],
+        [
+          11,
+          78
+        ],
+        [
+          20,
+          74
+        ],
+        [
+          30,
+          55
+        ],
+        [
+          36,
+          36
+        ],
+        [
+          36,
+          17
+        ],
+        [
+          31,
+          11
+        ],
+        [
+          24,
+          8
+        ],
+        [
+          6,
+          10
+        ],
+        [
+          4,
+          14
+        ],
+        [
+          35,
+          21
+        ],
+        [
+          85,
+          24
+        ],
+        [
+          88,
+          25
+        ],
+        [
+          91,
+          6
+        ],
+        [
+          92,
+          -9
+        ],
+        [
+          88,
+          -22
+        ],
+        [
+          75,
+          -29
+        ],
+        [
+          63,
+          -31
+        ],
+        [
+          49,
+          -30
+        ],
+        [
+          17,
+          -11
+        ],
+        [
+          16,
+          -8
+        ],
+        [
+          22,
+          -12
+        ],
+        [
+          28,
+          -20
+        ],
+        [
+          31,
+          -30
+        ],
+        [
+          24,
+          -34
+        ],
+        [
+          9,
+          -34
+        ],
+        [
+          -2,
+          -29
+        ],
+        [
+          -6,
+          -23
+        ],
+        [
+          -6,
+          -10
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "lastCommittedPoint": null
+    }
+  ],
+  "appState": {
+    "viewBackgroundColor": "#FFF",
+    "gridSize": null
+  }
+}
